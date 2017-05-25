@@ -1,0 +1,14 @@
+{
+  "name": "embedly-lambda-proxy",
+  "version": "0.0.1",
+  "description": "A simple proxy to save Embedly responses in dynamo db",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.57.0"
+  }
+}
